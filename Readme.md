@@ -17,8 +17,8 @@ I collect several interesting research papers using machine learning for securit
 2. [ASE'18] *DeepGauge: Multi-Granularity Testing Criteria for Deep Learning Systems* ([paper](http://xujuefei.com/felix_ase18_gauge.pdf), [project](https://deepgauge.github.io/))
 3. [ASE'18] *Concolic Testing for Deep Neural Networks* ([paper](http://www.kroening.com/papers/ase2018.pdf), [project](https://github.com/TrustAI/DeepConcolic))
 4. [FSE'18] *DLFuzz: Differential Fuzzing Testing of Deep Learning Systems* ([paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/fse18-dlfuzz.pdf))
-5. [arxiv] *DeepHunter: Hunting Deep Neural Network Defects via Coverage-Guided Fuzzing* ([paper](https://arxiv.org/pdf/1809.01266.pdf))
-6. [PLMR'19] *TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing* ([paper](http://proceedings.mlr.press/v97/odena19a/odena19a.pdf), [project](https://github.com/brain-research/tensorfuzz))
+5. [PLMR'19] *TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing* ([paper](http://proceedings.mlr.press/v97/odena19a/odena19a.pdf), [project](https://github.com/brain-research/tensorfuzz))
+6. [ISSTA'19] *DeepHunter: Hunting Deep Neural Network Defects via Coverage-Guided Fuzzing* ([paper](https://arxiv.org/pdf/1809.01266.pdf))
 
 ### Fuzzing
 1. [ASE'17] *Learn&Fuzz: Machine Learning for Input Fuzzing* ([paper](https://patricegodefroid.github.io/public_psfiles/ase2017.pdf))
