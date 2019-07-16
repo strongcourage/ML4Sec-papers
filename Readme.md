@@ -30,3 +30,6 @@ I collect several interesting research papers using machine learning for securit
 7. [SP'19] *NEUZZ: Efficient Fuzzing with Neural Program Smoothing* ([paper](https://arxiv.org/pdf/1807.05620.pdf), [project](https://github.com/Dongdongshe/neuzz), [slides](https://www.ieee-security.org/TC/SP2019/SP19-Slides-pdfs/Dongdong_She.pdf), [talk](https://www.youtube.com/watch?v=j4ynjsA5CEQ))
 8. [arxiv] *A Review of Machine Learning Applications in Fuzzing* ([paper](https://arxiv.org/pdf/1906.11133.pdf))
 9. [SEC'19] *EnFuzz: Ensemble Fuzzing with Seed Synchronization among Diverse Fuzzers* ([paper](https://arxiv.org/pdf/1807.00182.pdf))
+
+### Misc
+1. [arxiv] *Neutaint: Efficient Dynamic Taint Analysis with Neural Networks* ([paper](https://arxiv.org/pdf/1907.03756.pdf))
