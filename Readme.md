@@ -33,3 +33,4 @@ I collect several interesting research papers using machine learning for securit
 
 ### Misc
 1. [arxiv] *Neutaint: Efficient Dynamic Taint Analysis with Neural Networks* ([paper](https://arxiv.org/pdf/1907.03756.pdf))
+2. [Keynote-CAV'19] *Machine Learning as Program Synthesis* ([slides](https://drive.google.com/file/d/1T7fefMIcI_NfTPDJl14eRjXMU6XHCv6T/view), [blog: AI Safety as a PL problem](https://blog.sigplan.org/2019/06/24/ai-safety-as-a-pl-problem/)) 
