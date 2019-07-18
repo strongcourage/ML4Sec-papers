@@ -12,6 +12,9 @@ I collect several interesting research papers using machine learning for securit
 1. [CODASPY'16] *Toward large-scale vulnerability discovery using Machine Learning* ([paper](https://www.researchgate.net/publication/294086432_Toward_Large-Scale_Vulnerability_Discovery_using_Machine_Learning), [slides](http://conference.hitb.org/hitbsecconf2016ams/wp-content/uploads/2015/11/D1T3-Gustavo-Grieco-Vulnerability-Discovery-Using-Machine-Learning.pdf), [talk](https://www.youtube.com/watch?v=9n6qxaUhcxo))
 2. [ACSAC'17] *Machine-Learning-Guided Typestate Analysis for Static Use-After-Free Detection* ([paper](https://yuleisui.github.io/publications/acsac17.pdf))
 
+### Symbolic execution
+1. [NDSS'19] *Neuro-Symbolic Execution: Augmenting Symbolic Execution with Neural Constraints* ([paper](https://www.comp.nus.edu.sg/~abhik/pdf/ndss19.pdf))
+
 ### Testing deep learning system
 1. [SOSP'17] *DeepXplore: Automated Whitebox Testing of Deep Learning Systems* ([paper](http://www.cs.columbia.edu/~junfeng/papers/deepxplore-sosp17.pdf))
 2. [ASE'18] *DeepGauge: Multi-Granularity Testing Criteria for Deep Learning Systems* ([paper](http://xujuefei.com/felix_ase18_gauge.pdf), [project](https://deepgauge.github.io/))
