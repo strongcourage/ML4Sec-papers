@@ -15,6 +15,9 @@ I collect several interesting research papers using machine learning for securit
 ### Symbolic execution
 1. [NDSS'19] *Neuro-Symbolic Execution: Augmenting Symbolic Execution with Neural Constraints* ([paper](https://www.comp.nus.edu.sg/~abhik/pdf/ndss19.pdf))
 
+### Taint analysis
+1. [arxiv] *Neutaint: Efficient Dynamic Taint Analysis with Neural Networks* ([paper](https://arxiv.org/pdf/1907.03756.pdf))
+
 ### Testing deep learning system
 1. [SOSP'17] *DeepXplore: Automated Whitebox Testing of Deep Learning Systems* ([paper](http://www.cs.columbia.edu/~junfeng/papers/deepxplore-sosp17.pdf))
 2. [ASE'18] *DeepGauge: Multi-Granularity Testing Criteria for Deep Learning Systems* ([paper](http://xujuefei.com/felix_ase18_gauge.pdf), [project](https://deepgauge.github.io/))
@@ -34,6 +37,5 @@ I collect several interesting research papers using machine learning for securit
 8. [arxiv] *A Review of Machine Learning Applications in Fuzzing* ([paper](https://arxiv.org/pdf/1906.11133.pdf))
 9. [SEC'19] *EnFuzz: Ensemble Fuzzing with Seed Synchronization among Diverse Fuzzers* ([paper](https://arxiv.org/pdf/1807.00182.pdf))
 
-### Misc
-1. [arxiv] *Neutaint: Efficient Dynamic Taint Analysis with Neural Networks* ([paper](https://arxiv.org/pdf/1907.03756.pdf))
-2. [Keynote-CAV'19] *Machine Learning as Program Synthesis* ([slides](https://drive.google.com/file/d/1T7fefMIcI_NfTPDJl14eRjXMU6XHCv6T/view), [blog: AI Safety as a PL problem](https://blog.sigplan.org/2019/06/24/ai-safety-as-a-pl-problem/)) 
+### Program analysis
+1. [Keynote-CAV'19] *Machine Learning as Program Synthesis* ([slides](https://drive.google.com/file/d/1T7fefMIcI_NfTPDJl14eRjXMU6XHCv6T/view), [blog: AI Safety as a PL problem](https://blog.sigplan.org/2019/06/24/ai-safety-as-a-pl-problem/)) 
