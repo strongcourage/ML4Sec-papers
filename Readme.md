@@ -17,6 +17,7 @@ I collect several interesting research papers using machine learning for securit
 
 ### Taint analysis
 1. [arxiv] *Neutaint: Efficient Dynamic Taint Analysis with Neural Networks* ([paper](https://arxiv.org/pdf/1907.03756.pdf))
+2. [arxiv] *Fine Grained Dataflow Tracking with Proximal Gradients* ([paper](https://arxiv.org/pdf/1909.03461.pdf))
 
 ### Testing deep learning system
 1. [SOSP'17] *DeepXplore: Automated Whitebox Testing of Deep Learning Systems* ([paper](http://www.cs.columbia.edu/~junfeng/papers/deepxplore-sosp17.pdf))
