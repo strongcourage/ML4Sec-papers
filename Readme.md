@@ -39,4 +39,5 @@ I collect several interesting research papers using machine learning for securit
 9. [SEC'19] *EnFuzz: Ensemble Fuzzing with Seed Synchronization among Diverse Fuzzers* ([paper](https://www.usenix.org/system/files/sec19-chen-yuanliang.pdf), [project](https://github.com/enfuzz/enfuzz), [talk](https://www.youtube.com/watch?v=JEpJ4MLH2Ro))
 
 ### Program analysis
-1. [Keynote-CAV'19] *Machine Learning as Program Synthesis* ([slides](https://drive.google.com/file/d/1T7fefMIcI_NfTPDJl14eRjXMU6XHCv6T/view), [blog: AI Safety as a PL problem](https://blog.sigplan.org/2019/06/24/ai-safety-as-a-pl-problem/)) 
+1. [Keynote-CAV'19] *Machine Learning as Program Synthesis* ([slides](https://drive.google.com/file/d/1T7fefMIcI_NfTPDJl14eRjXMU6XHCv6T/view), [blog: AI Safety as a PL problem](https://blog.sigplan.org/2019/06/24/ai-safety-as-a-pl-problem/))
+2. [SEC'19] *DEEPVSA: Facilitating Value-set Analysis with Deep Learning for Postmortem Program Analysis* ([paper](https://www.usenix.org/system/files/sec19-guo.pdf), [project](https://github.com/Henrygwb/deepvsa/), [talk](https://www.youtube.com/watch?v=mxZJZC3zJY0))
