@@ -26,6 +26,7 @@ I collect several interesting research papers using machine learning for securit
 4. [FSE'18] *DLFuzz: Differential Fuzzing Testing of Deep Learning Systems* ([paper](http://wingtecher.com/themes/WingTecherResearch/assets/papers/fse18-dlfuzz.pdf))
 5. [PLMR'19] *TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing* ([paper](http://proceedings.mlr.press/v97/odena19a/odena19a.pdf), [project](https://github.com/brain-research/tensorfuzz))
 6. [ISSTA'19] *DeepHunter: Hunting Deep Neural Network Defects via Coverage-Guided Fuzzing* ([paper](https://arxiv.org/pdf/1809.01266.pdf))
+7. [TSE] *Grammar Based Directed Testing of Machine Learning Systems* ([paper](https://arxiv.org/pdf/1902.10027.pdf))
 
 ### Fuzzing
 1. [ASE'17] *Learn&Fuzz: Machine Learning for Input Fuzzing* ([paper](https://patricegodefroid.github.io/public_psfiles/ase2017.pdf))
