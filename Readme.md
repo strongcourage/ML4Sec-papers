@@ -39,7 +39,7 @@ I collect several interesting research papers using machine learning for securit
 7. [SP'19] *NEUZZ: Efficient Fuzzing with Neural Program Smoothing* ([paper](https://arxiv.org/pdf/1807.05620.pdf), [project](https://github.com/Dongdongshe/neuzz), [slides](https://www.ieee-security.org/TC/SP2019/SP19-Slides-pdfs/Dongdong_She.pdf), [talk](https://www.youtube.com/watch?v=j4ynjsA5CEQ))
 8. [arxiv] *A Review of Machine Learning Applications in Fuzzing* ([paper](https://arxiv.org/pdf/1906.11133.pdf))
 9. [SEC'19] *EnFuzz: Ensemble Fuzzing with Seed Synchronization among Diverse Fuzzers* ([paper](https://www.usenix.org/system/files/sec19-chen-yuanliang.pdf), [project](https://github.com/enfuzz/enfuzz), [talk](https://www.youtube.com/watch?v=JEpJ4MLH2Ro))
-10. [CCS'19] *Learning to Fuzz from Symbolic Execution with Application to Smart Contracts* ([paper](https://files.sri.inf.ethz.ch/website/papers/ccs19-ilf.pdf), [project](https://github.com/eth-sri/ilf))
+10. [CCS'19] *Learning to Fuzz from Symbolic Execution with Application to Smart Contracts* ([paper](https://files.sri.inf.ethz.ch/website/papers/ccs19-ilf.pdf), [project](https://github.com/eth-sri/ilf), [slides](https://files.sri.inf.ethz.ch/website/slides/ccs19-ilf-slides.pdf))
 11. [ICST'19] *Directing a Search Towards Execution Properties
 with a Learned Fitness Function* ([paper](http://www0.cs.ucl.ac.uk/staff/D.Clark/pubs/DaSTEP.pdf))
 
