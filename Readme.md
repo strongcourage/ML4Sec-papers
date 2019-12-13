@@ -1,5 +1,8 @@
 I collect several interesting research papers using machine learning for security.
 
+### Survey
+1. [arxiv] *Using Deep Learning to Solve Computer Security Challenges: A Survey* ([paper](https://arxiv.org/pdf/1912.05721.pdf))
+
 ### Binary-related machine learning
 1. [SEC'14] *Byteweight: Learning to recognize functions in binary code* ([paper](https://www.usenix.org/system/files/conference/usenixsecurity14/sec14-paper-bao.pdf), [project](http://security.ece.cmu.edu/byteweight/), [slides](https://www.usenix.org/sites/default/files/conference/protected-files/sec14_slides_bao.pdf), [talk](https://www.usenix.org/node/184522))
 2. [SEC'15] *Recognizing Functions in Binaries with Neural Networks* ([paper](https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-shin.pdf), [talk](https://www.usenix.org/node/190919))
