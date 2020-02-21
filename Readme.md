@@ -46,6 +46,7 @@ I collect several interesting research papers using machine learning for securit
 11. [ICST'19] *Directing a Search Towards Execution Properties
 with a Learned Fitness Function* ([paper](http://www0.cs.ucl.ac.uk/staff/D.Clark/pubs/DaSTEP.pdf))
 12. [SEC'20] *FuzzGuard: Filtering out Unreachable Inputs in Directed Grey-box Fuzzing through Deep Learning* ([paper](http://kaichen.org/paper/conference/sec20summer-final343.pdf), [project](https://github.com/zongpy/FuzzGuard))
+13. [arxiv] *MEUZZ: Smart Seed Scheduling for Hybrid Fuzzing* ([paper](https://arxiv.org/pdf/2002.08568.pdf))
 
 ### Program analysis
 1. [Keynote-CAV'19] *Machine Learning as Program Synthesis* ([slides](https://drive.google.com/file/d/1T7fefMIcI_NfTPDJl14eRjXMU6XHCv6T/view), [blog: AI Safety as a PL problem](https://blog.sigplan.org/2019/06/24/ai-safety-as-a-pl-problem/))
