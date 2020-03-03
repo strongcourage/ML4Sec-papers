@@ -10,6 +10,7 @@ I collect several interesting research papers using machine learning for securit
 4. [SEC'17] *Neural Nets Can Learn Function Type Signatures From Binaries* ([paper](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-chua.pdf), [project](https://github.com/shensq04/EKLAVYA), [talk](https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/chua))
 5. [EUROSP'17] *Compiler-Agnostic Function Detection in Binaries* ([paper](https://syssec.mistakenot.net/papers/eurosp-2017.pdf), [project](https://bitbucket.org/vusec/nucleus), [slides](https://syssec.mistakenot.net/slides/eurosp-2017.pdf))
 6. [CCS'17] *Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection* ([paper](https://arxiv.org/pdf/1708.06525.pdf), [slides](https://docs.google.com/viewer?url=http%3A%2F%2Fliuchang.co%2Fslides%2Fgraphnn-ccs2017.pptx))
+7. [NDSS'20] *DeepBinDiff: Learning Program-Wide Code Representations for Binary Diffing* ([paper](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24311.pdf), [project](https://github.com/deepbindiff/DeepBinDiff))
 
 ### Vulnerabilities detection
 1. [CODASPY'16] *Toward large-scale vulnerability discovery using Machine Learning* ([paper](https://www.researchgate.net/publication/294086432_Toward_Large-Scale_Vulnerability_Discovery_using_Machine_Learning), [slides](http://conference.hitb.org/hitbsecconf2016ams/wp-content/uploads/2015/11/D1T3-Gustavo-Grieco-Vulnerability-Discovery-Using-Machine-Learning.pdf), [talk](https://www.youtube.com/watch?v=9n6qxaUhcxo))
