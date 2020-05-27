@@ -20,9 +20,8 @@ I collect several interesting research papers using machine learning for securit
 1. [NDSS'19] *Neuro-Symbolic Execution: Augmenting Symbolic Execution with Neural Constraints* ([paper](https://www.comp.nus.edu.sg/~abhik/pdf/ndss19.pdf))
 
 ### Taint analysis
-1. [arxiv] *Neutaint: Efficient Dynamic Taint Analysis with Neural Networks* ([paper](https://arxiv.org/pdf/1907.03756.pdf))
-2. [arxiv] *Fine Grained Dataflow Tracking with Proximal Gradients* ([paper](https://arxiv.org/pdf/1909.03461.pdf))
-3. [S&P'20] *Neutaint: Efficient Dynamic Taint Analysis with Neural Networks* ([paper](https://arxiv.org/pdf/1907.03756.pdf))
+1. [arxiv] *Fine Grained Dataflow Tracking with Proximal Gradients* ([paper](https://arxiv.org/pdf/1909.03461.pdf))
+2. [S&P'20] *Neutaint: Efficient Dynamic Taint Analysis with Neural Networks* ([paper](https://arxiv.org/pdf/1907.03756.pdf), [talk](https://www.youtube.com/watch?v=y43E_i3XZ0w))
 
 ### Testing deep learning system
 1. [SOSP'17] *DeepXplore: Automated Whitebox Testing of Deep Learning Systems* ([paper](http://www.cs.columbia.edu/~junfeng/papers/deepxplore-sosp17.pdf))
