@@ -33,6 +33,9 @@ I collect several interesting research papers using machine learning for securit
 7. [TSE] *Grammar Based Directed Testing of Machine Learning Systems* ([paper](https://arxiv.org/pdf/1902.10027.pdf))
 8. [arxiv] *Machine Learning Testing: Survey, Landscapes and Horizons* ([paper](https://arxiv.org/pdf/1906.10742.pdf))
 
+### Search-based Software Testing
+1. [arxiv'20] A Generative Neural Network Framework for Automated Software Testing ([paper](https://arxiv.org/pdf/2006.16335.pdf))
+
 ### Fuzzing
 1. [ASE'17] *Learn&Fuzz: Machine Learning for Input Fuzzing* ([paper](https://patricegodefroid.github.io/public_psfiles/ase2017.pdf))
 2. [PAC'17] *ExploitMeter: Combining Fuzzing with Machine Learning for Automated Evaluation of Software Exploitability* ([paper](http://www.cs.binghamton.edu/~ghyan/papers/pac17.pdf))
