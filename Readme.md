@@ -51,6 +51,7 @@ I collect several interesting research papers using machine learning for securit
 with a Learned Fitness Function* ([paper](http://www0.cs.ucl.ac.uk/staff/D.Clark/pubs/DaSTEP.pdf))
 12. [SEC'20] *FuzzGuard: Filtering out Unreachable Inputs in Directed Grey-box Fuzzing through Deep Learning* ([paper](http://kaichen.org/paper/conference/sec20summer-final343.pdf), [project](https://github.com/zongpy/FuzzGuard))
 13. [arxiv] *MEUZZ: Smart Seed Scheduling for Hybrid Fuzzing* ([paper](https://arxiv.org/pdf/2002.08568.pdf))
+14. [FSE'20] *MTFuzz: Fuzzing with a Multi-Task Neural Network* ([paper](https://arxiv.org/pdf/2005.12392.pdf), [project](https://github.com/rahlk/MTFuzz))
 
 ### Program analysis
 1. [Keynote-CAV'19] *Machine Learning as Program Synthesis* ([slides](https://drive.google.com/file/d/1T7fefMIcI_NfTPDJl14eRjXMU6XHCv6T/view), [blog: AI Safety as a PL problem](https://blog.sigplan.org/2019/06/24/ai-safety-as-a-pl-problem/))
